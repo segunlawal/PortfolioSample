@@ -17,6 +17,7 @@ body{
     font-family: 'Satisfy', cursive;
     font-size: 5rem;
     gap: 10px;
+    margin-left: 10%;
     /* margin-top: 25%; */
 }
 .name::after{
